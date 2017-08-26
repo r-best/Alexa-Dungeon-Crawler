@@ -1,0 +1,12 @@
+StartGame start game
+StartGame new game
+StartGame start a new game
+Continue continue
+Continue continue to next room
+Continue continue onwards
+Attack attack
+Attack attack monster
+Attack attack the monster
+Attack attack it
+Flee flee
+Flee run away
